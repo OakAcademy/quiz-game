@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165734647853",
+    "firebase_url": "https://quiz-game-bf715.firebaseio.com",
+    "project_id": "quiz-game-bf715",
+    "storage_bucket": "quiz-game-bf715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165734647853:android:8038b0b36314dba09f90a4",
+        "android_client_info": {
+          "package_name": "com.company.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165734647853-estagifqt64i0v18p1q2pk5rrh312j5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.quizgame",
+            "certificate_hash": "a646b620ee0839c5437db3f25208238fa8e8b87a"
+          }
+        },
+        {
+          "client_id": "165734647853-a8sc2l2jfkurpltc0galo67o1pguj2q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOV84_3FstCez-152UqC-KUnT9taVpPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165734647853-a8sc2l2jfkurpltc0galo67o1pguj2q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
